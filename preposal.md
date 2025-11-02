@@ -4,7 +4,7 @@
 
 1. Recreate Q-Up (https://store.steampowered.com/app/3991960/QUP_Demo/)
 2. Horse racing simulator made in turtle, with statistics and an economy system
-3. Recreate Limbus Company (in 2D) (https://store.steampowered.com/app/1973530/Limbus_Company/)
+3. Recreate a simplified version of Limbus Company (https://store.steampowered.com/app/1973530/Limbus_Company/)
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
